@@ -1,3 +1,3 @@
 # myfirstrepo
 This is my first Repositery.
-author - anjali 
+author - anjali patel
